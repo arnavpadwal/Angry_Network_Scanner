@@ -1,5 +1,5 @@
 # Angry Network Scanner 
-<!-- <img src="img/banner.png" width="450" height="200" alt="AngryNetScan"> -->
+<img src="img/banner.png" width="450" height="200" alt="AngryNetScan">
 
 **Local Network Scan**
 
