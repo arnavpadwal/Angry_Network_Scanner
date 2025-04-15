@@ -10,13 +10,13 @@
 ![image](img/demo2.png)
 
 ## Run (Pre-Compiled Jar)
-Download Pre-Compiled Jar from [Releases Page](https://github.com/arnavpadwal/Angry_Network_Scanner/releases/)
+Download Pre-Compiled Jar from [Releases Page](https://github.com/arnavpadwal/Angry_Network_Scanner/releases/) and run:
 ```bash
 java -jar AngryNetScan.jar
 ```
 
 ## Compile (Linux)
-Make desired changes to AngryNetScan.java and run
+Make desired changes to AngryNetScan.java and run:
 ```bash
 javac -cp .:lib/* AngryNetScan.java
 jar cvfm AngryNetScan.jar MANIFEST.MF AngryNetScan.class lib/*
