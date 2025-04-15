@@ -10,7 +10,7 @@
 ![image](img/demo2.png)
 
 ## Run (Pre-Compiled Jar)
-Download Pre-Compiled Jar from !(Releases Page)[https://github.com/arnavpadwal/Angry_Network_Scanner/releases/]
+Download Pre-Compiled Jar from (Releases Page)[https://github.com/arnavpadwal/Angry_Network_Scanner/releases/]
 ```bash
 java -jar AngryNetScan.jar
 ```
