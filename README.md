@@ -1,5 +1,12 @@
 # Angry Network Scanner
 
+**Local Network Scan**
+
+![image](img/demo1.png)
+
+**Real-time Network Packet Capture**
+
+![image](img/demo2.png)
 
 ## Compile (Linux)
 Make changes to AngryNetScan.java and run
