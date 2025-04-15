@@ -1,4 +1,5 @@
-# Angry Network Scanner
+# Angry Network Scanner 
+<!-- <img src="img/banner.png" width="450" height="200" alt="AngryNetScan"> -->
 
 **Local Network Scan**
 
@@ -8,15 +9,18 @@
 
 ![image](img/demo2.png)
 
-## Compile (Linux)
-Make changes to AngryNetScan.java and run
+## Run (Pre-Compiled Jar)
+
 ```bash
-javac -cp .:lib/* AngryNetScan.java
+java -jar AngryNetScan.jar
 ```
 
-## Run (Linux)
+## Compile (Linux)
+Make desired changes to AngryNetScan.java and run
 ```bash
-sudo java -cp .:lib/* AngryNetScan
+javac -cp .:lib/* AngryNetScan.java
+jar cvfm AngryNetScan.jar MANIFEST.MF AngryNetScan.class lib/*
+java -jar AngryNetScan.jar
 ```
 
 ## Note
